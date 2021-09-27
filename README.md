@@ -11,9 +11,9 @@ Technologies used in this Project mentioned below:
 5. Netlify
 
 ## Features
-1.User can learn AI from professional instructor
-2.User can learn with low cost
-3.User can gain a lot of knowledge about Machine Learning,Deep Learning
+1. User can see Instructors Information.
+2. User can add to cart Instructors.
+3. Payment will be updated while adding Instructor.
 
 ## Live Site Link
 
