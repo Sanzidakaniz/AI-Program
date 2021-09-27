@@ -17,4 +17,4 @@ Technologies used in this Project mentioned below:
 
 ## Live Site Link
 
-Live Site:()
+Live Site:(https://wonderful-curie-0e8c3c.netlify.app)
