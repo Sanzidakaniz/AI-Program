@@ -1,0 +1,23 @@
+
+    button{
+        background-color:violet;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    }
+
+.cart-design{
+    background-color: blanchedalmond;
+    margin: 20px;
+}
+
+
+h3{
+    color:  rgba(0, 0, 255, 0.657);
+    margin-bottom: 15px;
+}
+h6{
+    color: rgba(0, 0, 255, 0.657);
+}
