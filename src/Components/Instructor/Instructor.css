@@ -8,8 +8,7 @@ span{
 img{
     border-radius: 50%;
     height:100px;
-    width:100px ;
-    
+    width:100px ;  
 }
 
 button{
@@ -18,13 +17,11 @@ color: white;
 padding: 5px;
 border-radius: 5px;
 font-weight: 400;
-
 }
 
 .icon-margin{
     padding: 10px;
     text-align: center;
-
 }
 .new-design{
     background-color: cornsilk;

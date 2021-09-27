@@ -5,7 +5,6 @@ import Instructor from '../Instructor/Instructor';
 import './Container.css'
 
 const Container = () => {
-
     const [instructors,setInstructors]=useState([]);
     const [cart,setCart]=useState([]);
     useEffect(()=>{
@@ -17,8 +16,7 @@ const Container = () => {
     console.log('clicked');
 const newInstructor=[...cart,instructor];
 setCart(newInstructor);
-
-    }
+ }
     return (
         <div className="main-container">
               <div className="instructor-container">
@@ -29,8 +27,7 @@ setCart(newInstructor);
                         instructor={instructor}
                         handleCart={handleCart} ></Instructor>)
                  }
-                </div>
-                 
+                </div>    
             <div >
 <Cart cart={cart}></Cart>
             </div>
