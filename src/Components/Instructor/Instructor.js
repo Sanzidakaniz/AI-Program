@@ -23,7 +23,7 @@ const Instructor = (props) => {
   <p>Expert In: <span>{Subject}</span></p>
   <p>Salary: $<span>{salary}</span></p>
  <p>Instructor Id: <span>{id}</span></p>
-  <button onClick={()=>props.handleCart(props.instructor)}><FontAwesomeIcon icon={faShoppingCart } />add to cart</button>
+  <button onClick={()=>props.handleCart(props.instructor)}><FontAwesomeIcon icon={faShoppingCart } /> add to cart</button>
 
   
  <div className="icon-margin">
